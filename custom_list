@@ -1,0 +1,12 @@
+# NAME: domains_community.list
+# AUTHOR: misha-tgshv
+# REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
+# UPDATED: 2026-08-18 00:41:15 MSK
+# SOURCE: https://github.com/misha-tgshv/shadowrocket-configuration-file/blob/main/rules/domains_community.list
+# special
+DOMAIN-KEYWORD,tripo3d
+# youtube
+# DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googleusercontent.com
+# DOMAIN-SUFFIX,googlevideo.com
+# DOMAIN-SUFFIX,gstatic.com
